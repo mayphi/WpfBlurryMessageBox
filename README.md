@@ -11,3 +11,6 @@ Monitor 2 (main display):<br>
 Monitor 3:<br>
 100% scale<br>
 1920x1080
+
+
+Start the programm an move it to another monitor with a different resolution (for example from monitor 2 to monitor 1).
