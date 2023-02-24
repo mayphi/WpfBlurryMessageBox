@@ -7,3 +7,7 @@ Monitor 1:<br>
 Monitor 2 (main display):<br>
 100% scale<br>
 1920x1080
+
+Monitor 3:<br>
+100% scale<br>
+1920x1080
