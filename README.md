@@ -13,4 +13,4 @@ Monitor 3:<br>
 1920x1080
 
 
-Start the programm an move it to another monitor with a different resolution (for example from monitor 2 to monitor 1).
+Start the programm an move it to another monitor with a different resolution and click the "Open MessageBox"-Button<br>(for example from monitor 2 to monitor 1).
